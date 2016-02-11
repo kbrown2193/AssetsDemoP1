@@ -141,9 +141,8 @@ Main Point: Unedited (except for very end fade out) recording of electric guitar
 ==========================
 Nature Ambient
 ==========================
-Comment: this is 
-Extra (hrd shifts) has signal that has swift changes in real time on the signal, so not necessairly musically pleasing qualities, but nonetheless represents live signal changes.
-Main Point:  
+Comment: 
+Main Point:  ambient sound
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
