@@ -273,12 +273,3 @@ Left channel only compression, preamp,chorus
 Right channel delay effects
 
 both through looper to mixer
-
-
-
-!!!!!!!!!!!!
-
-And I've been on such a merry ride,
-I want you here with me
-Now lets blast off into the night
-through eternity
