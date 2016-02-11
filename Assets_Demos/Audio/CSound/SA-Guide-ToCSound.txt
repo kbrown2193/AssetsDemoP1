@@ -1,0 +1,144 @@
+==================
+SA Guide to CSound
+==================
+++++++++++++++++++
+Meta Data
+Contributors: kB-000
+Version Date: ad 2015-10-19
+Description: A comprehensive guide to the basics of CSound.
+
+
+Legend
+===========
+Main Title
+===========
++++++++++
+Meta data
++++++++++
+TTTTTTTTTTTTTTTTT
+Table of Contents
+TTTTTTTTTTTTTTTTT
+!!!!!!!!!
+Section 1
+---------
+content
+!!!!!!!!!
+@@@@@@@@@
+Section 2
+---------
+content
+@@@@@@@@@
+#########
+Section 3
+---------
+content
+#########
+$$$$$$$$$
+Section 4
+---------
+content
+$$$$$$$$$
+%%%%%%%%%
+Section 5
+---------
+content
+%%%%%%%%%
+^^^^^^^^^
+Section 6
+---------
+content
+^^^^^^^^^
+&&&&&&&&&
+Section 7
+---------
+content
+&&&&&&&&&
+*********
+Section 8
+---------
+content
+*********  
+
+++++++++++++++++++
+
+
+TTTTTTTTTTTTTTTTT
+Table Of Contents
+-----------------
+
+
+1. Intro to CSound
+2. Setting up a file
+3. CsOptions
+4. CsInstruments
+5. CsScore
+TTTTTTTTTTTTTTTTT
+
+
+!!!!!!!!!
+Intro to CSound
+---------
+
+
+angled brackets "<>" indicates a large section
+	Sections in csound include:
+		* CsoundSynthesizer			- This encloses the entire file. It determines what a csound file is composed of
+		* CsOptions					- This is the options for the 
+		* CsInstruments				- This is where the information pertaining to how the instruments are played
+		* CsScore					- This is where you indicate calls to an instruments
+a semicolon ";" indicates a comment
+
+!!!!!!!!!
+
+@@@@@@@@@
+Setting up a file
+---------
+
+@@@@@@@@@
+
+#########
+CsOptions
+---------
+
+#########
+
+$$$$$$$$$
+CsInstruments
+---------
+
+This is where the information pertaining to the instruments is stored.
+
+Instruments are sectioned off by the instr - endin command.
+instr ###
+; code here
+endin
+
+
+An example is 
+
+
+
+A general starting point is these few basic variables
+
+sr
+
+
+$$$$$$$$$
+%%%%%%%%%
+CsScore
+---------
+
+%%%%%%%%%
+
+
+
+
+^^^^^^^^^
+Section 6
+^^^^^^^^^
+&&&&&&&&&
+Section 7
+&&&&&&&&&
+*********
+Section 8
+*********  
