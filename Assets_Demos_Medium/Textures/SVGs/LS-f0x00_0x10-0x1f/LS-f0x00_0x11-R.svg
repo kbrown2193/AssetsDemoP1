@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+              "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="0.888889in" height="0.888889in"
+     viewBox="0 0 64 64">
+  <path id="R-upper-Postbend"
+        fill="none" stroke="black" stroke-width="1"
+        d="M 23.96,47.96
+           C 23.96,47.96 24.00,21.00 24.00,21.00
+             24.00,21.00 33.00,21.04 33.00,21.04
+             40.93,20.90 38.92,34.93 33.00,35.04
+             33.00,35.04 24.06,35.02 24.07,35.02
+             24.08,35.02 24.07,35.13 24.07,35.13
+             24.07,35.13 33.02,35.13 33.02,35.13
+             33.02,35.13 43.02,47.96 43.02,47.96" />
+</svg>
