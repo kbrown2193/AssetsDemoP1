@@ -27,7 +27,7 @@ public class TextureSetter4x4 : MonoBehaviour {
     * xx 0.25
     * xx xx 0.5
     * xx xx xx 0.75
-
+    *
     * 0  1  2  3 
     *
     *
